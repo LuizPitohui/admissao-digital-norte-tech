@@ -37,8 +37,8 @@ Esta versão é o **front-end em HTML, CSS e JavaScript puro**, usado para valid
 Não precisa de instalação. Clone e abra o `index.html` no navegador:
 
 ```bash
-git clone https://github.com/LuizPitohui/admiss-o-digital---norte-tech.git
-cd admiss-o-digital---norte-tech
+git clone https://github.com/LuizPitohui/admissao-digital-norte-tech.git
+cd admissao-digital-norte-tech
 ```
 
 Ou sirva a pasta localmente para navegar entre as páginas:
@@ -53,7 +53,7 @@ python -m http.server 8080
 ## 📂 Estrutura
 
 ```
-admiss-o-digital---norte-tech/
+admissao-digital-norte-tech/
 ├── index.html            # Portal de vagas
 ├── vaga_detalhe.html
 ├── login.html
